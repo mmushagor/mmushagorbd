@@ -68,7 +68,7 @@
 -----------------------------------------------
 Blogger Template Style
 Name:        IVERO
-Author :     http://www.soratemplates.com
+Author :     http://www.mmushagor.blogspot.com
 License:     Free Version
 ----------------------------------------------- */
 
@@ -2475,7 +2475,7 @@ user is not using shrink to fit then we expand the header.
 <!-- Footer Copyright -->Copyright &#169;2016-2022. MMUSHAGOR All rights reserved.
   <div class='copyright'>
     <div style='font-size:000.0001px;opacity=000.000;'>
-    <a href='http://www.soratemplate.com/' id='mycontent' title='Blogger Templates'>s</a>
+    <a href='http://www.mmushagor.blogspot.com/' id='mycontent' title='Blogger Templates'>history</a>
 
   </div>
 </div>
@@ -2542,7 +2542,7 @@ head.appendChild(script);
 
 <script>
 //<![CDATA[
-// jquery replacetext plugin https://github.com/cowboy/jquery-replacetext
+// jquery replacetext plugin https://github.com/mmushagor/jquery-replacetext
 (function(e){e.fn.replaceText=function(t,n,r){return this.each(function(){var i=this.firstChild,s,o,u=[];if(i){do{if(i.nodeType===3){s=i.nodeValue;o=s.replace(t,n);if(o!==s){if(!r&&/</.test(o)){e(i).before(o);u.push(i)}else{i.nodeValue=o}}}}while(i=i.nextSibling)}u.length&&e(u).remove()})}})(jQuery);
 
 // Timeago jQuery plugin ~ URL: http://timeago.yarp.com
